@@ -94,9 +94,9 @@ https://github.com/dipakhore979/CURRENCY-CONVERTER
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipakhore979&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dipakhore979&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakhore979&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakhore979&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -116,7 +116,7 @@ https://github.com/dipakhore979/CURRENCY-CONVERTER
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipakhore979&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dipakhore979&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
