@@ -47,23 +47,17 @@ A full-stack portfolio with an admin dashboard for managing projects, skills, an
 
 ## GitHub activity
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![GitHub stats]
-<img src="https://github-stats-extended.vercel.app/api?username=dipakhore-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub statistics](./assets/github-metrics.svg)
 
+## 📅 Contribution Activity
 
-![GitHub streak](https://streak-stats.demolab.com?user=dipakhore-dev&theme=github-dark-blue&hide_border=true)
+![Contribution calendar](./assets/contributions.svg)
 
-## 📈 GitHub Contributions
-
-[![GitHub Followers](https://img.shields.io/github/followers/dipakhore-dev?style=for-the-badge&logo=github)](https://github.com/dipakhore-dev?tab=followers)
-
-### My Contribution Activity
-
-[🟩 View My GitHub Contribution Calendar](https://github.com/dipakhore-dev#user-activity-overview)
-
-**[View my official GitHub contributions](https://github.com/dipakhore-dev?tab=overview)**
+[View my official GitHub contributions](https://github.com/dipakhore-dev#user-activity-overview)
 
 </div>
 
