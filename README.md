@@ -2,86 +2,71 @@
 
 # Hi, I'm Dipak Hore 👋
 
-### Full-Stack Developer | B.Tech CSE (AI & ML) | Building practical web applications
+**Full-Stack Developer | B.Tech CSE (AI & ML) | Building practical web applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-sooty-mu-80.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge)](https://my-portfolio-sooty-mu-80.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-hore)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipakhore979@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipakhore979&label=Profile%20Views&color=2563eb&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/dipakhore979?label=Followers&style=flat-square&color=2563eb)](https://github.com/dipakhore979?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=dipakhore-dev&label=Profile%20views&color=2563eb&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/dipakhore-dev?label=Followers&style=flat-square&color=2563eb)](https://github.com/dipakhore-dev?tab=followers)
 
 </div>
 
-## About Me
+## About me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Brainware University**.
-- 💻 Building full-stack applications with **React, Node.js, Express and MongoDB**.
-- 🧠 Exploring **AI/ML, LLMs and AI integrations**.
-- 📚 Practising **Java, Python, data structures and algorithms**.
-- 🤝 Interested in collaborating on practical full-stack and AI-powered projects.
+I'm a Computer Science and Engineering (AI & ML) student at **Brainware University**, focused on full-stack web development. I build applications with React, Node.js, Express, and MongoDB, and I'm expanding my knowledge of AI/ML and backend engineering.
 
-## Tech Stack
+- 🔭 Building full-stack projects and improving my software engineering skills
+- 🌱 Learning modern web architecture, APIs, and AI/ML
+- 🤝 Open to internships, collaboration, and junior developer opportunities
 
-**Languages**
+## Tech stack
 
-![Languages](https://skillicons.dev/icons?i=java,js,python,html,css)
+**Languages:** JavaScript, Java, Python, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS, Vite  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Postman
 
-**Frontend**
+## Featured projects
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
+### 🎵 [MusicStream](https://github.com/dipakhore-dev/musicstream)
+A music-sharing application with backend authentication, role-based functionality, and media upload workflows.
 
-**Backend & Databases**
+**Highlights:** Node.js, Express, MongoDB, JWT authentication, media uploads.
 
-![Backend and databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+[View repository](https://github.com/dipakhore-dev/musicstream)
 
-**Tools**
+### 💼 [My Portfolio](https://github.com/dipakhore-dev/MY-PORTFOLIO)
+A full-stack portfolio with an admin dashboard for managing projects, skills, and profile content.
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+**Highlights:** React, Tailwind CSS, Node.js, Express, MongoDB.
 
-## Featured Projects
+[Live website](https://my-portfolio-sooty-mu-80.vercel.app) · [View repository](https://github.com/dipakhore-dev/MY-PORTFOLIO)
 
-### 🎵 [MusicStream](https://github.com/dipakhore979/musicstream)
-
-A music streaming application backend with authentication and music-management workflows.
-
-- User and artist roles with protected routes
-- JWT-based authentication and password hashing
-- Music uploads and management endpoints
-- Built using **Node.js, Express.js and MongoDB**
-
-[**Explore MusicStream →**](https://github.com/dipakhore979/musicstream)
-
-### 🌐 [My Portfolio](https://github.com/dipakhore979/MY-PORTFOLIO)
-
-A full-stack portfolio application with a content-management dashboard, project showcase and GitHub integration.
-
-- **React, Tailwind CSS, Node.js, Express.js and MongoDB**
-- Admin dashboard for managing portfolio content
-- [**Live Portfolio →**](https://my-portfolio-sooty-mu-80.vercel.app)
-
-## GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dipakhore979&theme=tokyonight&hide_border=true)](https://github.com/dipakhore979)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakhore-dev&show_icons=true&theme=github_dark&hide_border=true)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipakhore979&theme=tokyo-night&hide_border=true)](https://github.com/dipakhore979?tab=overview)
+![GitHub streak](https://streak-stats.demolab.com?user=dipakhore-dev&theme=github-dark-blue&hide_border=true)
 
-**[View my official GitHub contributions →](https://github.com/dipakhore979?tab=overview)**
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=dipakhore-dev&theme=github-compact&hide_border=true)
 
-</div>
-
-> Note: The activity graph above is generated by a third-party service and may sometimes fail to load. The official GitHub link always leads to the contribution activity on my profile.
-
-## Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dipak-hore)
-- 🌐 [Portfolio](https://my-portfolio-sooty-mu-80.vercel.app)
-- 📧 [Email](mailto:dipakhore979@gmail.com)
-
-<div align="center">
-
-Thanks for visiting! ⭐ Explore my repositories to see what I'm building.
+**[View my official GitHub contributions](https://github.com/dipakhore-dev?tab=overview)**
 
 </div>
+
+> Stats images are supplied by third-party services and may sometimes fail to load. The official GitHub profile above is the reliable source for contribution activity. Profile views are counted by a third-party badge service, not GitHub's unique visitor analytics.
+
+## Let's connect
+
+- [Portfolio](https://my-portfolio-sooty-mu-80.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/dipak-hore)
+- [Email](mailto:dipakhore979@gmail.com)
+
+---
+
+<div align="center"><sub>Thanks for visiting! Explore my projects and feel free to connect.</sub></div>
