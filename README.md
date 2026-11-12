@@ -1,144 +1,81 @@
-<h1 align="center">Hi 👋, I'm Dipak Hore</h1>
-<h3 align="center">B.Tech CSE (AIML) Student | Full Stack Web Developer | AI & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;React+%7C+JavaScript+%7C+Node.js;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+# Hi, I'm Dipak Hore 👋
 
----
+### Full-Stack Developer | B.Tech CSE (AI & ML) Student
 
-## 🚀 About Me
+Building practical web applications with React, Node.js, Express, and MongoDB, and exploring AI-powered features.
 
-🎓 B.Tech in Computer Science & Engineering (AI & ML)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-sooty-mu-80.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-hore)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipakhore979@gmail.com)
 
-🏫 Brainware University
+![Profile visitors](https://komarev.com/ghpvc/?username=dipakhore979&label=Profile%20Views&color=2563eb&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/dipakhore979?label=Followers&style=flat-square&color=2563eb)](https://github.com/dipakhore979?tab=followers)
 
-🌱 Currently learning
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- AI & Machine Learning
+</div>
 
-💻 Passionate about building real-world web applications.
+## About Me
 
-📫 Reach me:
-- Email:dipakhore979@gmail.com
-- LinkedIn:https://www.linkedin.com/in/dipak-hore
+- 🎓 Studying **B.Tech in Computer Science & Engineering (AI & ML)** at **Brainware University**.
+- 💻 Focused on **full-stack web development** and creating maintainable applications.
+- 🌱 Learning and applying **React, Node.js, Express, MongoDB, and AI integrations**.
+- 🧠 Practicing **Java, Python, DSA, OOP, and DBMS**.
+- 🤝 Open to collaborating on useful web and AI projects.
 
----
+## Technical Skills
 
-## 🛠 Tech Stack
+**Languages**
 
-### Languages
+![Languages](https://skillicons.dev/icons?i=java,js,python,html,css)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
-</p>
+**Frontend**
 
-### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-</p>
+**Backend & Databases**
 
-### Backend
+![Backend and Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Developer Tools**
 
-### Database
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+## Featured Projects
 
-### Tools
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [**Personal Portfolio**](https://github.com/dipakhore979/MY-PORTFOLIO) | Full-stack portfolio with project showcase, editable content and an admin dashboard. [Live website](https://my-portfolio-sooty-mu-80.vercel.app) | React, Node.js, Express, MongoDB |
+| [**Currency Converter**](https://github.com/dipakhore979/CURRENCY_CONVERTER) | Responsive currency converter with live exchange rates, currency switching and country flags. | HTML, CSS, JavaScript, REST API |
+| [**Tic Tac Toe Game**](https://github.com/dipakhore979/TIC-TAC-TOE-GAME) | Interactive browser game. | Web development |
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### Currency Converter Preview
 
----
+[![Currency Converter screenshot](https://raw.githubusercontent.com/dipakhore979/CURRENCY_CONVERTER/main/currency%20converter.jpg)](https://github.com/dipakhore979/CURRENCY_CONVERTER)
 
-# 🚀 Featured Projects
+[**Explore Currency Converter source code**](https://github.com/dipakhore979/CURRENCY_CONVERTER)
 
-## 💱 Currency Converter
+## GitHub Activity
 
-✔ Real-time Currency Exchange
+<div align="center">
 
-✔ 160+ Supported Currencies
+![GitHub streak](https://streak-stats.demolab.com?user=dipakhore979&theme=transparent&hide_border=true)
 
-✔ Country Flags
+![GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=dipakhore979&theme=github-compact&hide_border=true)
 
-✔ Swap Currency Feature
+</div>
 
-✔ Responsive UI
+## Connect
 
-### Tech Used
-
-- HTML
-- CSS
-- JavaScript
-- Exchange Rate API
-
-🔗 Repository
-
-https://github.com/dipakhore979/CURRENCY-CONVERTER
-
+- 🌐 **Portfolio:** https://my-portfolio-sooty-mu-80.vercel.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dipak-hore
+- 📧 **Email:** dipakhore979@gmail.com
+- 💻 **GitHub:** https://github.com/dipakhore979
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+Thanks for visiting! Explore my repositories, and feel free to connect or collaborate.
 
-<img src="https://streak-stats.demolab.com?user=dipakhore979&theme=tokyonight" />
-
-</p>
-
----
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakhore979&theme=tokyo-night"/>
-
-</p>
-
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/dipakhore979">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dipak-hore">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:dipakhore979@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+</div>
